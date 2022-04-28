@@ -1,0 +1,11 @@
+{
+  "name": "demo-hello-world",
+  "version": "1.0.0",
+  "description": "Hello world app",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "adwaith",
+  "license": "ISC"
+}
